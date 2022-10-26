@@ -18,6 +18,7 @@ res.addEventListener('click', RESET)
 // INCREASE
 function INCREASE (){
     heading.innerText++
+    
 }
 
 inc.addEventListener('click', INCREASE)
